@@ -5,9 +5,6 @@ An Arduino Pro Micro project using 3D-printed mechanisms and custom electronics 
 ## Overview
 This project uses 3D printed components and several circuits to make a simple extension for a computer. It can be powered and used with just a USB cable connected to your device. This project makes driving games feel more realistic and more enjoyable.
 
-## Demo
-Work in Progress
-
 ## Features
  - Potentiometer based steering wheel with adjustable sensitivity and a wide range
  - Accelerator and Brake pedals designed to be easy to push with little force
